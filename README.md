@@ -5,17 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;Creative+Designer;Frontend+Enthusiast;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;Creative+Designer;Frontend+Enthusiast;Web+%26+Mobile+Developer;FinTech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
-I'm a passionate **Junior Full Stack Developer** who loves building functional and beautiful web applications.
+I'm a passionate **Junior Full Stack Developer** based in Jembrana, dedicated to building high-performance web applications and sleek mobile interfaces.
 
-- 🔭 Working on: **Barbershop Admin Dashboard**, **Myaku**, and **Kopi Skena**.
-- 🛠️ Tools: Often coding on the go with **Acode** and **Termux**.
-- 📍 Location: Jembrana, Bali.
+- 🔭 Currently working on: **Barbershop Admin**, **Kopi Skena**, and **FinanceAnalyzer**.
+- 📱 Mobile Dev: Crafting apps with **Kotlin** and **AndroidIDE**.
+- 🛠️ Environment: Powering through code using **Termux** and **Acode**.
+- 📍 Location: Jembrana, Bali, Indonesia.
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -23,14 +24,16 @@ I'm a passionate **Junior Full Stack Developer** who loves building functional a
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ### 📊 GitHub Stats
