@@ -1,4 +1,4 @@
-# Hi there, I'm Ahlul Firdaus 👋 👻
+# Hi there, I'm Ahlul Firdaus 👋 👻👻
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=007ACC&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" width="100%" />
