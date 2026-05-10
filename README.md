@@ -1,18 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient Flow -->
-<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#007ACC"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="200" fill="url(#grad)"/>
-  <text x="50%" y="45%" font-size="60" fill="white" text-anchor="middle" font-family="monospace" font-weight="bold">AHLUL FIRDAUS</text>
-  <text x="50%" y="70%" font-size="18" fill="#36BCF7" text-anchor="middle" font-family="monospace">Full Stack Developer | UI Architect | Mobile First</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:007ACC,50:36BCF7,75:0d1b4b,100:0d1117&height=300&section=header&text=AHLUL%20FIRDAUS&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI%20Architect%20%7C%20Mobile%20First&descAlignY=55&descSize=20&descColor=36BCF7" width="100%"/>
 
 <br/>
 
