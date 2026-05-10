@@ -170,7 +170,15 @@ const ahlul: Developer = {
 [![GitHub](https://img.shields.io/badge/GitHub-@Shop333-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Shop333)
 
 <br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-5e9afe24-9ca3-4c87-8a85-d6e60a73a9e8.gif" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284160-bf3e4b09-8f7b-4c98-a7de-4e3c6e6e4e5f.gif" width="100%"/>
 
 
 <!-- Animated Footer -->
