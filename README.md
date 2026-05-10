@@ -174,6 +174,6 @@ const ahlul: Developer = {
 
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:36BCF7,50:0d1b4b,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
 </div>
