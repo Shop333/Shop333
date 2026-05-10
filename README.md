@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient Flow -->
-<img src="https://capsule-render.vercel.app/render?type=slice&color=0:0d1117,50:007ACC,100:36BCF7&height=300&section=header&text=AHLUL%20FIRDAUS&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%20Architect%20%7C%20Mobile%20First&descAlignY=58&descSize=20&descColor=36BCF7" width="100%"/>
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
 
 <br/>
 
