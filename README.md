@@ -142,10 +142,9 @@ const ahlul: Developer = {
 
 <div align="center">
 
-<!-- GitHub Stats with Custom Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=Shop333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&custom_title=GitHub%20Stats" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shop333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&custom_title=GitHub%20Stats" height="180" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shop333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&langs_count=8" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shop333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&langs_count=8" height="180" />
 
 <br/><br/>
 
