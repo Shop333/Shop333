@@ -129,6 +129,8 @@ const ahlul: Developer = {
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shop333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6B6B" width="95%" />
 
+![Breakout Game](https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/asset/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
@@ -167,9 +169,9 @@ const ahlul: Developer = {
 
 <br/><br/>
 
-![Breakout Game](https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/asset/github-contribution-grid-snake.svg)
 
-<img src="https://github.pumbas.net/api/contributions/Shop333" alt="Contribution Graph" width="100%"/>
+
+
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0:36BCF7,50:0d1b4b,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
