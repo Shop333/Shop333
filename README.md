@@ -167,7 +167,7 @@ const ahlul: Developer = {
 
 <br/><br/>
 
-![Metrics](https://metrics.lecoq.io/Shop333?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8)
+![Breakout Game](https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/asset/github-contribution-grid-snake.svg)
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0:36BCF7,50:0d1b4b,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
