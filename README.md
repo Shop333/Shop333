@@ -169,6 +169,8 @@ const ahlul: Developer = {
 
 ![Breakout Game](https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/asset/github-contribution-grid-snake.svg)
 
+<img src="https://github.pumbas.net/api/contributions/Shop333" alt="Contribution Graph" width="100%"/>
+
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0:36BCF7,50:0d1b4b,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
