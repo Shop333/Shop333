@@ -54,40 +54,11 @@ const ahlul: Developer = {
   name: "Ahlul Firdaus",
   base: "Jembrana, Bali 🌴",
   role: "Junior Full Stack Developer",
-  superpower: ["UI/UX Alchemy", "Glassmorphism", "Clean Architecture"],
+  superpower: ["UI/UX Alchemy", "Glassmorphism", "Clean Architecture"],  
   
-  currentlyBuilding: [
-    {
-      name: "🖥️ Portfolio OS",
-      desc: "Interactive OS-style dashboard with animations & charts",
-      stack: ["Next.js 14", "TypeScript", "Tailwind v4", "Recharts", "Framer Motion"],
-      status: "shipping"
-    },
-    {
-      name: "☕ Cafe & Wedding Venue",
-      desc: "Booking & management platform for cafe + wedding venue",
-      stack: ["PHP", "Laravel", "Vue.js", "Tailwind", "MySQL"],
-      status: "production"
-    },
-    {
-      name: "💈 Barbershop Landing",
-      desc: "Premium landing page with modern UI",
-      stack: ["React", "TypeScript", "Tailwind", "Radix UI"],
-      status: "building"
-    }
-  ],
-  
-  stack: {
-    frontend: ["React", "Next.js", "Vue", "Angular", "Tailwind"],
-    backend: ["Node.js", "Express", "NestJS", "Django", "Laravel"],
-    database: ["MongoDB", "PostgreSQL", "MySQL", "Supabase", "Prisma"],
-    mobile: ["Kotlin", "Android Native"],
-    tools: ["Termux", "Alpine Linux", "Git", "Figma"]
-  },
-  
-  philosophy: "Code is poetry. UI is the stage. Performance is the director."
 };
 ```
+
 
 <br clear="right"/>
 
