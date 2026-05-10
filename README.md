@@ -1,48 +1,90 @@
-<div align="center">
 
-<!-- HEADER — capsule-render is widely used & reliable on GitHub -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:0d1b4b,100:007ACC&height=260&section=header&text=Ahlul%20Firdaus&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20·%20UI%20Craftsman%20·%20Mobile%20Builder&descAlignY=58&descSize=17&descColor=36BCF7" width="100%"/>
+content = '''<div align="center">
 
-<!-- TYPING SVG — demolab is the official maintained fork -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=55&lines=Full+Stack+%7C+Next.js+%7C+Laravel+%7C+Django;Building+in+Termux+like+a+wizard+%F0%9F%A7%99;Glassmorphism+obsessed+%F0%9F%92%A0;Mobile-first+dev+from+Jembrana+%F0%9F%8C%B4;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Animated Header with Gradient Flow -->
+<img src="https://capsule-render.vercel.app/render?type=venom&color=0:0d1117,25:007ACC,50:36BCF7,75:0d1b4b,100:0d1117&height=300&section=header&text=AHLUL%20FIRDAUS&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI%20Architect%20%7C%20Mobile%20First&descAlignY=55&descSize=20&descColor=36BCF7" width="100%"/>
+
+<br/>
+
+<!-- Dynamic Typing with More Lines -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=60&lines=Next.js+%7C+Laravel+%7C+Django+%7C+React;Building+Production-Ready+Apps+from+Termux+%F0%9F%93%B1;Glassmorphism+%2B+Motion+Design+%3D+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%B1;Always+Shipping+%F0%9F%9A%80+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+
+<br/>
+
+<!-- 3D Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shop333/Shop333/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shop333/Shop333/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shop333/Shop333/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Shop333&label=Profile+Views&color=007ACC&style=for-the-badge)](https://github.com/Shop333)
+<!-- Badges with Hover Effects -->
+[![Profile Views](https://komarev.com/ghpvc/?username=Shop333&label=Profile%20Views&color=007ACC&style=for-the-badge&logo=eye)](https://github.com/Shop333)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahlul-firdaus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ahlul-firdaus)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283867279174)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/6283867279174)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://ahlulfirdaus.vercel.app)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- Split Layout with GIF -->
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## ⚡ Siapa Gue?
+## 🧬 Developer DNA
 
 ```typescript
+interface Developer {
+  name: string;
+  base: string;
+  role: string;
+  superpower: string[];
+  currentlyBuilding: Project[];
+  stack: TechStack;
+  philosophy: string;
+}
+
 const ahlul: Developer = {
-  name    : "Ahlul Firdaus",
-  base    : "Jembrana, Bali 🌴",
-  role    : "Junior Full Stack Developer",
-  passion : ["UI/UX", "Glassmorphism", "Clean Code"],
-
+  name: "Ahlul Firdaus",
+  base: "Jembrana, Bali 🌴",
+  role: "Junior Full Stack Developer",
+  superpower: ["UI/UX Alchemy", "Glassmorphism", "Clean Architecture"],
+  
   currentlyBuilding: [
-    "🖥️  Portfolio OS  — Next.js dashboard style",
-    "☕  Cafe & Wedding Venue  — Laravel + Vue",
-    "💈  Barbershop Landing  — React + Radix UI",
+    {
+      name: "🖥️ Portfolio OS",
+      desc: "Interactive OS-style dashboard with animations & charts",
+      stack: ["Next.js 14", "TypeScript", "Tailwind v4", "Recharts", "Framer Motion"],
+      status: "shipping"
+    },
+    {
+      name: "☕ Cafe & Wedding Venue",
+      desc: "Booking & management platform for cafe + wedding venue",
+      stack: ["PHP", "Laravel", "Vue.js", "Tailwind", "MySQL"],
+      status: "production"
+    },
+    {
+      name: "💈 Barbershop Landing",
+      desc: "Premium landing page with modern UI",
+      stack: ["React", "TypeScript", "Tailwind", "Radix UI"],
+      status: "building"
+    }
   ],
-
-  workflow: {
-    editor  : ["Acode", "VSCode"],
-    terminal: ["Termux", "Alpine Linux"],
-    device  : "Mobile (yes, seriously 📱)",
+  
+  stack: {
+    frontend: ["React", "Next.js", "Vue", "Angular", "Tailwind"],
+    backend: ["Node.js", "Express", "NestJS", "Django", "Laravel"],
+    database: ["MongoDB", "PostgreSQL", "MySQL", "Supabase", "Prisma"],
+    mobile: ["Kotlin", "Android Native"],
+    tools: ["Termux", "Alpine Linux", "Git", "Figma"]
   },
-
-  learning : ["C", "Dart"],
-  funFact  : "Nge-code pakai HP = speedrun developer 🚀",
+  
+  philosophy: "Code is poetry. UI is the stage. Performance is the director."
 };
 ```
 
@@ -54,97 +96,68 @@ const ahlul: Developer = {
 
 <div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+### 🎨 Frontend Craft
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind" alt="Frontend" />
+</p>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### ⚙️ Backend Engine
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,php,laravel" alt="Backend" />
+</p>
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+### 🗄️ Data Layer
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma" alt="Database" />
+</p>
 
-### 🧰 Tools & Environment
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🧰 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,figma,kotlin,androidstudio" alt="Tools" />
+</p>
 
-### 📱 Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 📚 Currently Learning
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 📚 Currently Leveling Up
+<p>
+  <img src="https://skillicons.dev/icons?i=c,dart,flutter" alt="Learning" />
+</p>
 
 </div>
 
 ---
 
-## 🔥 Active Projects
+## 🔥 Active Missions
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🔧 Stack | ☁️ Deploy |
+| 🚀 Mission | 📝 Brief | 🔧 Loadout | ☁️ Status |
 |:---:|:---|:---|:---:|
-| **🖥️ Portfolio OS** | Portfolio bergaya OS dashboard interaktif dengan animasi & charts | Next.js · TypeScript · Tailwind v4 · Recharts · Framer Motion | Vercel |
-| **☕ Cafe & Wedding Venue** | Platform pemesanan & manajemen untuk cafe sekaligus venue pernikahan | PHP · Laravel · Vue.js · Tailwind · MySQL | Railway |
-| **💈 Barbershop Landing** | Landing page modern barbershop dengan UI premium | React · Vue.js · TypeScript · Tailwind · Radix UI | — |
+| **🖥️ Portfolio OS** | OS-style interactive portfolio with animations & real-time charts | `Next.js` `TypeScript` `Tailwind v4` `Recharts` `Framer Motion` | ![Vercel](https://img.shields.io/badge/Vercel-Live-000?style=flat&logo=vercel) |
+| **☕ Cafe & Wedding** | Dual-purpose booking platform for cafe operations & wedding events | `Laravel` `Vue.js` `MySQL` `Tailwind` | ![Railway](https://img.shields.io/badge/Railway-Deployed-0B0D0E?style=flat&logo=railway) |
+| **💈 Barbershop Pro** | Premium landing with glassmorphism UI & appointment system | `React` `TypeScript` `Radix UI` `Tailwind` | ![Building](https://img.shields.io/badge/Building-FF6B6B?style=flat) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Stats card — vercel deployment, very stable -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shop333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" alt="GitHub Stats"/>
+<!-- GitHub Stats with Custom Theme -->
+<img src="https://github-readme-stats.vercel.app/api?username=Shop333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&custom_title=GitHub%20Stats" height="180" />
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shop333&layout=compact&theme=tokyonight&hide=html,css&border_radius=10&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shop333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&langs_count=8" height="180" />
 
 <br/><br/>
 
-<!-- Streak — demolab is the maintained fork, most reliable -->
-<img src="https://streak-stats.demolab.com/?user=Shop333&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=36BCF7&ring=007ACC&fire=FF6B6B&currStreakLabel=36BCF7&border_radius=10" alt="GitHub Streak"/>
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shop333&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" width="85%" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shop333&bg_color=0d1117&color=36BCF7&line=007ACC&point=ffffff&area=true&hide_border=true&radius=10" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shop333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6B6B" width="95%" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shop333&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/>
 </div>
 
 ---
@@ -161,28 +174,30 @@ const ahlul: Developer = {
 
 ```
 🌴 Jembrana → 🌐 Global
-📱 Mobile Dev → 🚀 No Limits
+📱 Mobile Dev → 🚀 No Limits  
 💠 Glassmorphism → ✨ Obsession
 📦 Multi-stack → 🧠 Always Learning
+⚡ Termux → 🧙‍♂️ Wizard Mode
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let\'s Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahlul_Firdaus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahlul-firdaus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahlul_Firdaus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ahlul-firdaus)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B62_838_6727_9174-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283867279174)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B62_838_6727_9174-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/6283867279174)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahlul.firdaus@example.com)
+[![Email](https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ahlul.firdaus@example.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@Shop333-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shop333)
+[![GitHub](https://img.shields.io/badge/GitHub-@Shop333-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Shop333)
 
 <br/><br/>
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:007ACC,50:0d1b4b,100:0d1117&height=110&section=footer" width="100%"/>
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:36BCF7,50:0d1b4b,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+'''
