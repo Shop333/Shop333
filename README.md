@@ -170,6 +170,8 @@ const ahlul: Developer = {
 [![GitHub](https://img.shields.io/badge/GitHub-@Shop333-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Shop333)
 
 <br/><br/>
+
+<!-- 3D Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" />
