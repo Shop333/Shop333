@@ -162,13 +162,14 @@ https://github.com/Shop333/Shop333.git
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahlul_Firdaus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ahlul-firdaus)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahlul-firdaus)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B62_838_6727_9174-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/6283867279174)
+[![WhatsApp](https://skillicons.dev/icons?i=discord)](https://wa.me/6283867279174)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto: firdausahlul88@gmail.com)
+[![Email](https://skillicons.dev/icons?i=postgres)](mailto:firdausahlul88@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@Shop333-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Shop333)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Shop333)
+
 
 <br/><br/>
 
