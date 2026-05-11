@@ -87,7 +87,7 @@ https://github.com/Shop333/Shop333.git
 
 ### 🧰 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,figma,androidstudio,termux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,figma,androidstudio" alt="Tools" />
 </p>
 
 ### 📚 Currently Leveling Up
@@ -174,11 +174,66 @@ https://github.com/Shop333/Shop333.git
 
 
 <br/><br/>
-
-
-
-
 <!-- Animated Footer -->
+ <footer class="marquee-footer">
+  <div class="marquee-container">
+    <div class="marquee-content">
+      REACT • NEXT.JS • TYPESCRIPT • TAILWIND • NODE.JS • PYTHON • PHP • RALAVEL • VUE.JS • JAVASCRIPT • DJANGO • NEST.JS •
+REACT • NEXT.JS • TYPESCRIPT • TAILWIND • NODE.JS • PYTHON • PHP • RALAVEL • VUE.JS • JAVASCRIPT • DJANGO • NEST.JS •
+      
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2026 Ahlul Firdaus. All rights reserved.</p>
+  </div>
+</footer>
+
+<style>
+.marquee-footer {
+  background: #0d1117;
+  color: white;
+  padding: 0;
+}
+
+.marquee-container {
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 30px 0;
+  border-bottom: 1px solid #30363d;
+}
+
+.marquee-content {
+  display: inline-block;
+  animation: scroll 30s linear infinite;
+  font-size: 2rem;
+  font-weight: bold;
+  color: transparent;
+  -webkit-text-stroke: 1px #58a6ff;
+}
+
+.marquee-content:hover {
+  animation-play-state: paused;
+  color: #58a6ff;
+  -webkit-text-stroke: 0;
+  transition: color 0.3s;
+}
+
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.footer-bottom {
+  text-align: center;
+  padding: 20px;
+  color: #8b949e;
+}
+</style>
+
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
