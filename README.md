@@ -169,6 +169,8 @@ https://github.com/Shop333/Shop333.git
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:firdausahlul88@gmail.com)
 &nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Shop333)
+&nbsp;
+[![WhatsApp](https://skillicons.dev/icons?i=wa)](https://wa.me/6283867279174)
 
 
 <br/><br/>
