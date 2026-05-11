@@ -87,7 +87,7 @@ https://github.com/Shop333/Shop333.git
 
 ### 🧰 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,figma,androidstudio" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,figma,androidstudio,termux" alt="Tools" />
 </p>
 
 ### 📚 Currently Leveling Up
