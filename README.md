@@ -170,7 +170,7 @@ https://github.com/Shop333/Shop333.git
 &nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Shop333)
 &nbsp;
-[![WhatsApp](https://skillicons.dev/icons?i=wa)](https://wa.me/6283867279174)
+[![WhatsApp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/6283867279174)
 
 
 <br/><br/>
