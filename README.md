@@ -131,7 +131,7 @@ const ahlul: Developer = {
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shop333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6B6B" width="95%" />
 
-<img src="https://github.pumbas.net/api/contributions/Shop333" alt="Contribution Graph" width="100%"/>
+<img src="https://github.pumbas.net/api/contributions/Shop333" alt="Contribution Graph" width="95%"/>
 
 </div>
 
@@ -171,39 +171,7 @@ const ahlul: Developer = {
 
 <br/><br/>
 
-<!-- Pac-Man -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="pacman" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-</picture>
 
-<!-- Breakout -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/breakout-contribution-graph.svg">
-  <img alt="breakout" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/breakout-contribution-graph.svg">
-</picture>
-
-<!-- Galaga -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph.svg">
-  <img alt="galaga" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph.svg">
-</picture>
-
-<!-- Puzzle Bobble -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/puzzle-bobble-contribution-graph.svg">
-  <img alt="puzzle bobble" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/puzzle-bobble-contribution-graph.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shop333/Shop333/profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shop333/Shop333/profile-3d-contrib/profile-green-animate.svg">
-  <img alt="3d" src="https://raw.githubusercontent.com/Shop333/Shop333/profile-3d-contrib/profile-green-animate.svg">
-</picture>
 
 
 <!-- Animated Footer -->
