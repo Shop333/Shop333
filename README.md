@@ -131,7 +131,7 @@ const ahlul: Developer = {
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shop333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6B6B" width="95%" />
 
-<img src="https://github.pumbas.net/api/contributions/Shop333" alt="Contribution Graph" width="95%"/>
+
 
 </div>
 
@@ -146,6 +146,8 @@ const ahlul: Developer = {
 > — Ahlul, probably at 2AM in Termux 🌙
 
 </div>
+
+<img src="https://github.pumbas.net/api/contributions/Shop333" alt="Contribution Graph" width="95%"/>
 
 ```
 🌴 Jembrana → 🌐 Global
