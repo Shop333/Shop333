@@ -175,60 +175,44 @@ https://github.com/Shop333/Shop333.git
 
 <br/><br/>
 <!-- Animated Footer -->
- <footer class="marquee-footer">
-  <div class="marquee-container">
-    <div class="marquee-content">
-      REACT • NEXT.JS • TYPESCRIPT • TAILWIND • NODE.JS • PYTHON • PHP • RALAVEL • VUE.JS • JAVASCRIPT • DJANGO • NEST.JS •
-REACT • NEXT.JS • TYPESCRIPT • TAILWIND • NODE.JS • PYTHON • PHP • RALAVEL • VUE.JS • JAVASCRIPT • DJANGO • NEST.JS •
-      
-    </div>
-  </div>
-  <div class="footer-bottom">
-    <p>© 2026 Ahlul Firdaus. All rights reserved.</p>
-  </div>
-</footer>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=58a6ff&animation=twinkling"/>
+</p>
 
-<style>
-.marquee-footer {
-  background: #0d1117;
-  color: white;
-  padding: 0;
-}
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things+%F0%9F%9A%80"/>
+</p>
 
-.marquee-container {
-  overflow: hidden;
-  white-space: nowrap;
-  padding: 30px 0;
-  border-bottom: 1px solid #30363d;
-}
+<p align="center">
+  <a href="https://linkedin.com/in/ahlul-firdaus">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahlul_Firdaus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/6283867279174">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B62_838_6727_9174-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117"/>
+  </a>
+  &nbsp;
+  <a href="mailto:firdausahlul88@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Shop333">
+    <img src="https://img.shields.io/badge/GitHub-@Shop333-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  </a>
+</p>
 
-.marquee-content {
-  display: inline-block;
-  animation: scroll 30s linear infinite;
-  font-size: 2rem;
-  font-weight: bold;
-  color: transparent;
-  -webkit-text-stroke: 1px #58a6ff;
-}
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,py,go,postgres,docker,aws,linux,git,vscode&perline=13"/>
+</p>
 
-.marquee-content:hover {
-  animation-play-state: paused;
-  color: #58a6ff;
-  -webkit-text-stroke: 0;
-  transition: color 0.3s;
-}
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shop333&color=58a6ff&style=flat-square&label=Profile+Views"/>
+</p>
 
-@keyframes scroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
+<p align="center">
+  <samp>© 2026 <b>Ahlul Firdaus</b> — Keep coding 🔥</samp>
+</p>
 
-.footer-bottom {
-  text-align: center;
-  padding: 20px;
-  color: #8b949e;
-}
-</style>
 
 
 
