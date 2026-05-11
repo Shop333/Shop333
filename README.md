@@ -28,7 +28,7 @@
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/6283867279174)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://ahlulfirdaus.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://my-portfolio-khaki-beta-3t8b3jy9v8.vercel.app/)
 
 </div>
 
@@ -55,7 +55,7 @@ const ahlul: Developer = {
 };
 ```
 ```
-https://github.com/Shop333/Shop333.git
+https://my-portfolio-khaki-beta-3t8b3jy9v8.vercel.app/
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
@@ -172,7 +172,7 @@ https://github.com/Shop333/Shop333.git
   &nbsp;&nbsp;
   <a href="https://wa.me/6283867279174"><img src="https://skillicons.dev/icons?i=discord" width="40" title="WhatsApp"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:firdausahlul88@gmail.com"><img src="https://skillicons.dev/icons?i=postgres" width="40" title="Email"/></a>
+  <a href="mailto:firdausahlul88@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" title="Email"/></a>
   &nbsp;&nbsp;
   <a href="https://github.com/Shop333"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
