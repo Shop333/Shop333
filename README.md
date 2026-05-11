@@ -159,37 +159,26 @@ https://github.com/Shop333/Shop333.git
 ---
 
 ## 🤝 Let\'s Connect & Collaborate
+
+
 <!-- Animated Footer -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=58a6ff&animation=twinkling"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing;Open+to+collaboration+%F0%9F%91%8B"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things+%F0%9F%9A%80"/>
+  <a href="https://linkedin.com/in/ahlul-firdaus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+  &nbsp;
+  <a href="https://wa.me/6283867279174"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117"/></a>
+  &nbsp;
+  <a href="mailto:firdausahlul88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+  &nbsp;
+  <a href="https://github.com/Shop333"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
 <p align="center">
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahlul-firdaus)
-&nbsp;
-[![WhatsApp](https://skillicons.dev/icons?i=discord)](https://wa.me/6283867279174)
-&nbsp;
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:firdausahlul88@gmail.com)
-&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Shop333)
-&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://wa.me/6283867279174)
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,py,vite,php, ralavel,nestjs,linux,git,vscode&perline=13"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shop333&color=58a6ff&style=flat-square&label=Profile+Views"/>
-</p>
-
-<p align="center">
-  <samp>© 2026 <b>Ahlul Firdaus</b> — Keep coding 🔥</samp>
+  <samp>© 2026 Ahlul Firdaus</samp>
 </p>
 
 
