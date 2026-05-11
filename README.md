@@ -168,18 +168,19 @@ https://github.com/Shop333/Shop333.git
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahlul-firdaus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-  &nbsp;
-  <a href="https://wa.me/6283867279174"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117"/></a>
-  &nbsp;
-  <a href="mailto:firdausahlul88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-  &nbsp;
-  <a href="https://github.com/Shop333"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+  <a href="https://linkedin.com/in/ahlul-firdaus"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/6283867279174"><img src="https://skillicons.dev/icons?i=discord" width="40" title="WhatsApp"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:firdausahlul88@gmail.com"><img src="https://skillicons.dev/icons?i=postgres" width="40" title="Email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Shop333"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
 
 <p align="center">
   <samp>© 2026 Ahlul Firdaus</samp>
 </p>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
