@@ -45,9 +45,6 @@ interface Developer {
   base: string;
   role: string;
   superpower: string[];
-  currentlyBuilding: Project[];
-  stack: TechStack;
-  philosophy: string;
 }
 
 const ahlul: Developer = {
@@ -55,9 +52,10 @@ const ahlul: Developer = {
   base: "Jembrana, Bali 🌴",
   role: "Junior Full Stack Developer",
   superpower: ["UI/UX Alchemy", "Glassmorphism", "Clean Architecture"],  
-  
 };
 ```
+```https://github.com/Shop333/Shop333.git```
+
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
