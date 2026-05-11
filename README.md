@@ -54,7 +54,9 @@ const ahlul: Developer = {
   superpower: ["UI/UX Alchemy", "Glassmorphism", "Clean Architecture"],  
 };
 ```
-```https://github.com/Shop333/Shop333.git```
+```
+https://github.com/Shop333/Shop333.git
+```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
 
@@ -85,12 +87,12 @@ const ahlul: Developer = {
 
 ### 🧰 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,figma,kotlin,androidstudio" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,figma,androidstudio" alt="Tools" />
 </p>
 
 ### 📚 Currently Leveling Up
 <p>
-  <img src="https://skillicons.dev/icons?i=c,dart,flutter" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=c,dart,flutter,kotlin" alt="Learning" />
 </p>
 
 </div>
@@ -148,8 +150,7 @@ const ahlul: Developer = {
 <img src="https://github.pumbas.net/api/contributions/Shop333" alt="Contribution Graph" width="95%"/>
 
 ```
-🌴 Jembrana → 🌐 Global
-📱 Mobile Dev → 🚀 No Limits  
+🌴 Jembrana → 🌐 Global 
 💠 Glassmorphism → ✨ Obsession
 📦 Multi-stack → 🧠 Always Learning
 ⚡ Termux → 🧙‍♂️ Wizard Mode
@@ -165,7 +166,7 @@ const ahlul: Developer = {
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B62_838_6727_9174-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/6283867279174)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ahlul.firdaus@example.com)
+[![Email](https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto: firdausahlul88@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-@Shop333-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Shop333)
 
