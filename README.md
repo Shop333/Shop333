@@ -24,7 +24,7 @@
 <!-- Badges with Hover Effects -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Shop333&label=Profile%20Views&color=007ACC&style=for-the-badge&logo=eye)](https://github.com/Shop333)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ahlul-firdaus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/moh-ahlul-firdaus-5b95b33ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/6283867279174)
 &nbsp;
@@ -168,7 +168,7 @@ https://my-portfolio-khaki-beta-3t8b3jy9v8.vercel.app/
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahlul-firdaus"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.linkedin.com/in/moh-ahlul-firdaus-5b95b33ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   &nbsp;&nbsp;
   <a href="https://wa.me/6283867279174"><img src="https://skillicons.dev/icons?i=discord" width="40" title="WhatsApp"/></a>
   &nbsp;&nbsp;
