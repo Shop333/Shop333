@@ -159,21 +159,6 @@ https://github.com/Shop333/Shop333.git
 ---
 
 ## 🤝 Let\'s Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahlul-firdaus)
-&nbsp;
-[![WhatsApp](https://skillicons.dev/icons?i=discord)](https://wa.me/6283867279174)
-&nbsp;
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:firdausahlul88@gmail.com)
-&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Shop333)
-&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://wa.me/6283867279174)
-
-
-<br/><br/>
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=58a6ff&animation=twinkling"/>
@@ -184,25 +169,19 @@ https://github.com/Shop333/Shop333.git
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahlul-firdaus">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahlul_Firdaus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/6283867279174">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B62_838_6727_9174-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="mailto:firdausahlul88@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Shop333">
-    <img src="https://img.shields.io/badge/GitHub-@Shop333-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-  </a>
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahlul-firdaus)
+&nbsp;
+[![WhatsApp](https://skillicons.dev/icons?i=discord)](https://wa.me/6283867279174)
+&nbsp;
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:firdausahlul88@gmail.com)
+&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Shop333)
+&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://wa.me/6283867279174)
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,py,go,postgres,docker,aws,linux,git,vscode&perline=13"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,py,vite,php, ralavel,nestjs,linux,git,vscode&perline=13"/>
 </p>
 
 <p align="center">
@@ -212,11 +191,6 @@ https://github.com/Shop333/Shop333.git
 <p align="center">
   <samp>© 2026 <b>Ahlul Firdaus</b> — Keep coding 🔥</samp>
 </p>
-
-
-
-
-
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
