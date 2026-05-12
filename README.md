@@ -159,32 +159,7 @@ https://my-portfolio-khaki-beta-3t8b3jy9v8.vercel.app/
 ---
 
 ## 🤝 Let\'s Connect & Collaborate
-## 🤝 Let\'s Connect & Collaborate
-
-
-<!-- Animated Footer -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing;Open+to+collaboration+%F0%9F%91%8B"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/moh-ahlul-firdaus-5b95b33ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/6283867279174"><img src="https://skillicons.dev/icons?i=discord" width="40" title="WhatsApp"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:firdausahlul88@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" title="Email"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Shop333"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-</p>
-
-<p align="center">
-  <samp>© 2026 Ahlul Firdaus</samp>
-</p>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shop333&theme=monokai&no-frame=true&no-bg=true" width="100%"/>
 
 
 
