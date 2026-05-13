@@ -55,7 +55,7 @@ const ahlul: Developer = {
 };
 ```
 ```
-https://my-portfolio-khaki-beta-3t8b3jy9v8.vercel.app/
+https://portofolio-acik.vercel.app
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
