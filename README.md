@@ -50,7 +50,7 @@ interface Developer {
 const ahlul: Developer = {
   name: "Ahlul Firdaus",
   base: "Bali 🌴",
-  role: "Junior Full Stack Developer",
+  role: "Junior Full Stack",
   superpower: ["UI/UX Alchemy", "Glassmorphism", "Clean Architecture"],  
 };
 ```
