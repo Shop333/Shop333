@@ -87,7 +87,7 @@ https://portofolio-acik.vercel.app
 
 ### 🧰 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,figma,androidstudio" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,googleaistudio,git,github,linux,vercel,figma,androidstudio" alt="Tools" />
 </p>
 
 ### 📚 Currently Leveling Up
