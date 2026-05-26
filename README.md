@@ -87,7 +87,7 @@ https://portofolio-acik.vercel.app
 
 ### 🧰 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,chatgpt,git,github,linux,vercel,figma,androidstudio" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vercel,figma,androidstudio" alt="Tools" />
 </p>
 
 ### 📚 Currently Leveling Up
@@ -98,6 +98,16 @@ https://portofolio-acik.vercel.app
 </div>
 
 ---
+
+### 🧠 AI Power Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-4285f4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Kimi-000000?style=for-the-badge&logo=baidu&logoColor=white" alt="Kimi" />
+  <img src="https://img.shields.io/badge/Google_AI_Studio-35a853?style=for-the-badge&logo=google&logoColor=white" alt="AI Studio" />
+</p>
+
 
 ## 🔥 Active Missions
 
