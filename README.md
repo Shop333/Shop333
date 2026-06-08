@@ -82,7 +82,7 @@ https://portofolio-acik.vercel.app
 
 ### 🗄️ Data Layer
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma,firebase" alt="Database" />
 </p>
 
 ### 🧰 DevOps & Tools
